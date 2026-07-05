@@ -148,6 +148,32 @@ Interests:
 <tr>
 <td width="50%" valign="top">
 
+### 📚 [DeskGuard](https://github.com/Srishti-Gupta74/deskguard)
+> **Smart Library Seat Management System**
+
+Built with `TypeScript` `React` `CSS`
+
+A production-quality web application that solves library seat hoarding through QR-based seat management, real-time occupancy tracking, and automated seat recovery.
+
+<a href="https://github.com/Srishti-Gupta74/deskguard"><img src="https://img.shields.io/badge/View_Repo-6366F1?style=flat-square&logo=github&logoColor=white" alt="View"/></a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🕹️ [CyberSiksha](https://github.com/Srishti-Gupta74/CyberSiksha)
+> **Cyber Awareness App for Children & the Elderly**
+
+Built with `Next.js` `React` `Supabase`
+
+An interactive cyber awareness application designed specifically for children and the elderly. Gamifies online safety education through bite-sized lessons, engaging quizzes, and interactive scenarios to help users recognize and avoid digital scams.
+
+<a href="https://github.com/Srishti-Gupta74/CyberSiksha"><img src="https://img.shields.io/badge/View_Repo-EC4899?style=flat-square&logo=github&logoColor=white" alt="View"/></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 ### 🛡️ [ForgeShield](https://github.com/Srishti-Gupta74/ForgeShield)
 > **Forgery Detection & Document Authentication Tool**
 
@@ -194,32 +220,6 @@ Built with `Python` `Gemini AI`
 A multimodal AI cybersecurity guardian that monitors your screen in real time, runs OCR to detect suspicious keywords, sends screens to Gemini for deep visual analysis, and triggers fullscreen alerts when phishing is detected.
 
 <a href="https://github.com/Srishti-Gupta74/Spooky"><img src="https://img.shields.io/badge/View_Repo-A78BFA?style=flat-square&logo=github&logoColor=white" alt="View"/></a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📚 [DeskGuard](https://github.com/Srishti-Gupta74/deskguard)
-> **Smart Library Seat Management System**
-
-Built with `TypeScript` `React` `CSS`
-
-A production-quality web application that solves library seat hoarding through QR-based seat management, real-time occupancy tracking, and automated seat recovery.
-
-<a href="https://github.com/Srishti-Gupta74/deskguard"><img src="https://img.shields.io/badge/View_Repo-6366F1?style=flat-square&logo=github&logoColor=white" alt="View"/></a>
-
-</td>
-<td width="50%" valign="top">
-
-### 🔑 [Password-Manager-Project](https://github.com/Srishti-Gupta74/Password-Manager-Project)
-> **Secure Password Management System**
-
-Built with `Python`
-
-A Python-based password manager for securely storing, generating, and managing credentials. Focused on encryption best practices and user-friendly CLI interaction.
-
-<a href="https://github.com/Srishti-Gupta74/Password-Manager-Project"><img src="https://img.shields.io/badge/View_Repo-EC4899?style=flat-square&logo=github&logoColor=white" alt="View"/></a>
 
 </td>
 </tr>
